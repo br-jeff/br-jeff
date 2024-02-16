@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson Fereira</h1>
-<h4 align="center">A highly skilled Software Engineer with focus on NodeJS, PHP, Java and Golang offering a combination of cross-functional skills with 6+ years of commercial experience in Web Development. My expertise includes requirements gathering and analysis, business processes analysis and design, solution integration architecture, project architecture design, and deployment process setup.</h4>
+<h4 align="center">A highly skilled Software Engineer with focus on NodeJS, PHP, Java and Golang offering a combination of cross-functional skills with 6+ years of commercial experience in Web Development. My expertise includes requirements gathering and analysis, business processes analysis and design, solution integration architecture, project architecture design, and deployment process setup.</h>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,8 +12,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=br-jeff&show_icons=true&locale=en&layout=compact " alt="br-jeff" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=br-jeff&show_icons=true&locale=en&layout=compact" alt="br-jeff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=br-jeff&show_icons=true&locale=en" alt="br-jeff" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=br-jeff&" alt="br-jeff" /></p>
 
