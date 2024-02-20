@@ -7,8 +7,9 @@
 
 - Node.js Projects
     - Object Orientation and objection (Spring Boot like) ➛ [Eccomerce Api Link](https://github.com/br-jeff/commerce)
-    - Nest.js and mongo ➛ [Nest Mongo Api](https://github.com/br-jeff/nest-mongo)
     - Function oriented Desing ➛ [Email API](https://github.com/br-jeff/email-api)
+    - Nest.js and mongo ➛ [Nest Mongo Api](https://github.com/br-jeff/nest-mongo)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/br-jeff) 
