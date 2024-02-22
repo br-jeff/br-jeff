@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<p> A highly skilled Software Engineer with focus on NodeJS, PHP, Java and Golang </p>
+<p> A highly skilled Software Engineer with focus on NodeJS, Golang, PHP and Java  </p>
 <p> offering a combination of cross-functional skills with 6+ years of commercial experience in Web Development. </p>
 <p> My expertise includes requirements gathering and analysis, </p>
 <p> business processes analysis and design, solution integration architecture, project architecture design, and deployment process setup. </p>
