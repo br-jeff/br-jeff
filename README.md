@@ -7,7 +7,7 @@
 
 - Node.js Projects
     - Object Orientation and objection (Spring Boot like) ➛ [Eccomerce Api Link](https://github.com/br-jeff/commerce)
-    - Object Orientation with TypeOrm and SQS ➛ [Notification_Api Link]([https://github.com/br-jeff/commerce](https://github.com/br-jeff/notification-queue)
+    - Object Orientation with TypeOrm and SQS ➛ [Notification Api Link](https://github.com/br-jeff/commerce](https://github.com/br-jeff/notification-queue)
     - Function oriented Desing ➛ [Email API](https://github.com/br-jeff/email-api) 
     - Nest.js and mongo ➛ [Nest Mongo Api](https://github.com/br-jeff/nest-mongo)
 
