@@ -5,6 +5,10 @@
 <p> My expertise includes requirements gathering and analysis, </p>
 <p> business processes analysis and design, solution integration architecture, project architecture design, and deployment process setup. </p>
 
+
+### Check my environments
+[Env Repository](https://github.com/br-jeff/.dotfiles)
+
 - Node.js Projects
     - Object Orientation and objection (Spring Boot like) ➛ [Eccomerce Api Link](https://github.com/br-jeff/commerce)
     - Object Orientation with TypeOrm and SQS ➛ [Notification Api Link](https://github.com/br-jeff/notification-queue)
