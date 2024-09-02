@@ -5,7 +5,7 @@
 <p> My expertise includes requirements gathering and analysis, </p>
 <p> business processes analysis and design, solution integration architecture, project architecture design, and deployment process setup. </p>
 
-### Check my environments (Linux, I3Wm, tmux and nvim)
+### Check my environments (Linux, I3WW, tmux and nvim)
 [Environments Repository](https://github.com/br-jeff/.dotfiles)
 
 ### Some Projects
